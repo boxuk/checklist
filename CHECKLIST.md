@@ -12,6 +12,8 @@ A useful checklist for launching web applications
 
 + Grunt tasks for validating css and javascript
 + Tasks for any minification etc
++ Setup CI server 
++ Run code quality/code linting as part of your build
 
 ## Security
 
