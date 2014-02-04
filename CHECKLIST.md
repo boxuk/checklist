@@ -15,6 +15,12 @@ A useful checklist for launching web applications
 + Setup CI server 
 + Run code quality/code linting as part of your build
 
+## Deployment
+
++ Database backups are automatic and stored externally (S3 etc)
++ Add application monitoring to your server
++ Log rotation
+
 ## Security
 
 + Configuration is stored externally
