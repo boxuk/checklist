@@ -6,15 +6,18 @@ A useful checklist for launching web applications
 
 + Automated development environment (Vagrant)
 + Automated deployments
++ Add a bootstrap script so that getting your app running involves typing a single command (e.g rake bootstrap)
 
 ## Best Practices
 
-+ Automatic Validation for CSS and HTML
++ Grunt tasks for validating css and javascript
++ Tasks for any minification etc
 
 ## Security
 
 + Configuration is stored externally
 + SSL Certificate
++ Disable root access to server
 
 ## Performance
 
