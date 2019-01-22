@@ -1,5 +1,7 @@
 # Web application checklist
 
+# This repository is unmaintained
+
 A checklist for launching web applications
 
 ## Running
